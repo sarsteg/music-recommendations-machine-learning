@@ -77,4 +77,4 @@ Explore different distance metrics for improved song similarity calculation.
 
 ### Data Source
 
-Data was aquired from Kaggle.com: [https://www.kaggle.com/code/vatsalmavani/music-recommendation-system-using-spotify-dataset](https://www.kaggle.com/code/vatsalmavani/music-recommendation-system-using-spotify-dataset).
+Data was acquired from Kaggle.com: [https://www.kaggle.com/code/vatsalmavani/music-recommendation-system-using-spotify-dataset](https://www.kaggle.com/code/vatsalmavani/music-recommendation-system-using-spotify-dataset).
